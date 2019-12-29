@@ -10,7 +10,7 @@ import (
 
 	"github.com/phayes/freeport"
 
-	"github.com/kevholditch/gokong/containers"
+	"github.com/swiftcarrot/gokong/containers"
 	"github.com/stretchr/testify/assert"
 )
 

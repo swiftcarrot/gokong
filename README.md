@@ -16,7 +16,7 @@ GoKong is a easy to use api client for [kong](https://getkong.org/). The differe
 
 ## Supported Kong Versions
 
-As per [travis build](https://travis-ci.org/kevholditch/gokong):
+As per [travis build](https://travis-ci.org/swiftcarrot/gokong):
 
 ```
 KONG_VERSION=1.0.0
@@ -27,7 +27,7 @@ KONG_VERSION=1.0.0
 To add gokong via `go get`:
 
 ```
-go get github.com/kevholditch/gokong
+go get github.com/swiftcarrot/gokong
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ Import gokong
 
 ```go
 import (
-  "github.com/kevholditch/gokong"
+  "github.com/swiftcarrot/gokong"
 )
 ```
 
